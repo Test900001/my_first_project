@@ -1,2 +1,6 @@
 Hello Git it's my first work
+<<<<<<< HEAD
 password 123321
+=======
+пароль 987567
+>>>>>>> aef9980 (изменения в branch2)
